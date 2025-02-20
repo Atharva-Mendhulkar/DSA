@@ -366,8 +366,8 @@ void explainComparator(){
     for(int i=0;i<5;i++){
         cout<<"{"<<arr[i].first<<","<<arr[i].second<<"}"<<" ";
     }
-
 }
+
 int main(){
     explainComparator();
     return 0;
