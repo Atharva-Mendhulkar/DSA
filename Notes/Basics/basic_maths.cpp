@@ -123,7 +123,10 @@ int gcd(int t, int q){
 		}
 	}
 	return largest;
+}
 
+int lcm(int t, int q){
+	for(int )
 }
 
 int main() {
